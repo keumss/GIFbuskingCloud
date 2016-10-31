@@ -5,7 +5,7 @@
 ###Developer
 - Kum sung soo (MIRO Leader, Server)
 - Ha hyeon su (Mobile Application, Server)
-- Kang mi jung (IoT hardware)
+- Kang li jung (IoT hardware)
 - Liu hui yu (IoT hardware)
 >
 ---
